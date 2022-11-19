@@ -2,9 +2,38 @@
 
 <!------------------------------------------------------------>
 
+## Headings
+
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+# Heading 1
+```
+## Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+## Heading 2
+``` 
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+### Heading 3
+```
+#### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+#### Heading 4
+```
+##### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+##### Heading 5
+```
+###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+```
+###### Heading 6
+```
+
+<!------------------------------------------------------------>
+
 ## Text
 
-***Bold & Italic***
+***Lorem ipsum dolor sit amet, consectetur adipiscing elit.***
 ```
 ***bold & italic***
 ```
@@ -12,7 +41,7 @@
 ___bold & italic___
 ```
 
-**Bold**
+**Lorem ipsum dolor sit amet, consectetur adipiscing elit.**
 ```
 **bold**
 ```
@@ -20,7 +49,7 @@ ___bold & italic___
 __bold__
 ```
 
-_Italic_
+_Lorem ipsum dolor sit amet, consectetur adipiscing elit._
 ```
 *italic* 
 ```
@@ -28,19 +57,19 @@ _Italic_
 _italic_  
 ```
 
-~~Strikethrough~~
+~~Lorem ipsum dolor sit amet, consectetur adipiscing elit.~~
 ```
 ~~strikethrough~~
 ```
 
-> Blockquote
-> >  Nested Blockquote
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> >  Nunc pretium neque in eros faucibus sollicitudin.
 ```
 > Blockquote
 > > Nested Blockquote
 ```
 
-`Inline code`
+`print("Hello World!")`
 ```
 `inline code`
 ```
@@ -48,7 +77,7 @@ _italic_
 Code block
 <pre>
 ```
-// Code goes here
+// Code block
 ```
 </pre>
 
@@ -89,35 +118,6 @@ Any Emoji
 :emojiname:
 ```
 List: https://www.webfx.com/tools/emoji-cheat-sheet/
-
-<!------------------------------------------------------------>
-
-## Headings
-
-# H1
-```
-# H1
-```
-## H2
-```
-## H2
-``` 
-### H3
-```
-### H3
-```
-#### H4
-```
-#### H4
-```
-##### H5
-```
-##### H5
-```
-###### H6
-```
-###### H6
-```
 
 <!------------------------------------------------------------>
 
