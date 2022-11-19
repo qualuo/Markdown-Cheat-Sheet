@@ -4,8 +4,6 @@
 
 ## Text
 
-
-
 ***Bold & Italic***
 ```
 ***bold & italic***
@@ -47,9 +45,34 @@ _italic_
 `inline code`
 ```
 
+Code block
+<pre>
+```
+// Code goes here
+```
+</pre>
+
 Escape character
 ```
 \
+```
+
+
+<!------------------------------------------------------------>
+
+## GitHub-Flavored Markdown (GFM)
+
+Syntax Highlighting (Replace "javascript" with desired language.)
+<pre>
+``` javascript
+// Code goes here
+```
+</pre>
+
+Keyboard Keys  
+<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
+```
+<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
 ```
 
 <!------------------------------------------------------------>
@@ -66,15 +89,6 @@ Any Emoji
 :emojiname:
 ```
 List: https://www.webfx.com/tools/emoji-cheat-sheet/
-
-<!------------------------------------------------------------>
-
-## HTML
-
-Keys <kbd>shift</kbd> <kbd>up</kbd> <kbd>down</kbd>
-```
-<kbd>key</kbd>
-```
 
 <!------------------------------------------------------------>
 
