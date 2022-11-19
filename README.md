@@ -269,9 +269,9 @@ Markdown spec: https://github.github.com/gfm/
 </pre>
 
 ### Keyboard Keys  
-<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
+Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager.
 ```
-<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>
 ```
 
 ### Tables
