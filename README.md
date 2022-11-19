@@ -2,13 +2,20 @@
 
 ## Table of Contents  
 * [Headings](#headings)  
-* [Text](#text)  
+* [Text](#text)
 * [Lines](#lines)  
 * [Line Breaks](#line-breaks)  
 * [Links](#links)  
+    * [Inline](#links)
+    * [Reference](#links)
 * [Images](#images)  
+    * [Inline](#images)
+    * [Reference](#images)
 * [Lists](#lists)  
-* [Checkboxes](#checkboxes)  
+    * [Numbered](#numbered)
+    * [Bulleted](#bulleted)
+    * [Mixed](#mixed)
+    * [Checkbox](#checkboxes)
 * [Emojis](#emojis)  
 * [GitHub-Flavored Markdown (GFM)](#github-flavored-markdown-gfm)
     * [Syntax Highlighting](#syntax-highlighting)  
@@ -188,7 +195,7 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
 * Start numbered list with `1.`
 * Use `*`, `+`, `-` for bullet points
 
-### Numbered:  
+### Numbered 
 1. First item
     1. First sub-item  
         1. First sub-sub-item  
@@ -198,7 +205,7 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
         1. First sub-sub-item
 ```
 
-### Bulleted:  
+### Bulleted
 * First item
     * First sub-item
         * First sub-sub-item
@@ -208,7 +215,7 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
         * First sub-sub-item
 ```
 
-### Mixed:
+### Mixed
 * First item
    1. First sub-item
        * First sub-sub-item
@@ -220,10 +227,7 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
 * Second item
 ```
 
-<!------------------------------------------------------------>
-
-## Checkboxes
-
+### Checkboxes
 * [ ] Checkbox item
 * [x] Crossed checkbox item
     * [ ] Checkbox sub-item
