@@ -225,10 +225,14 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
 ## Checkboxes
 
 * [ ] Checkbox item
-    * [x] Marked checkbox sub-item
+* [x] Crossed checkbox item
+    * [ ] Checkbox sub-item
+    * [x] Crossed checkbox sub-item
 ```
-* [ ] Checbox item
-    * [x] Marked checkbox sub-item
+* [ ] Checkbox item
+* [x] Crossed checkbox item
+    * [ ] Checkbox sub-item
+    * [x] Crossed checkbox sub-item  
 ```
 
 <!------------------------------------------------------------>
