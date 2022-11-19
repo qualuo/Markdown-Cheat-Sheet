@@ -1,7 +1,5 @@
 # Markdown Cheat Sheet
 
-All codeblocks are Markdown.
-
 <!------------------------------------------------------------>
 
 ## Text
@@ -236,3 +234,15 @@ Checkboxes:
 
 <!------------------------------------------------------------>
 
+## Table
+
+Right aligned | Center aligned | Left aligned
+---: | :---: | :---
+Data | Data | Data
+Data | Data | Data
+```
+Right aligned | Center aligned | Left aligned
+---: | :---: | :---
+Data | Data | Data
+Data | Data | Data
+```
