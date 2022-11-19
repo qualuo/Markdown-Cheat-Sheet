@@ -79,8 +79,8 @@ _italic_
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 > >  Nunc pretium neque in eros faucibus sollicitudin.
 ```
-> Blockquote
-> > Nested Blockquote
+> Block quote
+> > Nested Block quote
 ```
 
 `print("Hello World!")`
@@ -184,9 +184,9 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
 
 ## Lists
 
-* Indent with **4 leading spaces** to go deeper.  
-* Start numbered list with "1."  
-* Use asterisk (*), plus (+), or minus (-) for bullet points.
+* Indent with **4 leading spaces** to go deeper
+* Start numbered list with `1.`
+* Use `*`, `+`, `-` for bullet points
 
 ### Numbered:  
 1. First item
@@ -253,6 +253,8 @@ List: https://www.webfx.com/tools/emoji-cheat-sheet/
 <!------------------------------------------------------------>
 
 ## GitHub-Flavored Markdown (GFM)
+
+Markdown spec: https://github.github.com/gfm/
 
 ### Syntax Highlighting  
 (Replace "javascript" with desired language.)
