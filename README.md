@@ -1,18 +1,19 @@
 # Markdown Cheat Sheet
 
 ## Table of Contents  
-[Headings](#headings)  
-[Text](#text)  
-[Lines](#lines)  
-[Line Breaks](#line-breaks)  
-[Links](#links)  
-[Images](#images)  
-[Lists](#lists)  
-[Checkboxes](#checkboxes)  
-[Emojis](#emojis)  
-[Syntax Highlighting](#syntax-highlighting)  
-[Keyboard Keys](#keyboard-keys)  
-[Tables](#tables)
+* [Headings](#headings)  
+* [Text](#text)  
+* [Lines](#lines)  
+* [Line Breaks](#line-breaks)  
+* [Links](#links)  
+* [Images](#images)  
+* [Lists](#lists)  
+* [Checkboxes](#checkboxes)  
+* [Emojis](#emojis)  
+* [GitHub-Flavored Markdown (GFM)](#github-flavored-markdown-gfm)
+    * [Syntax Highlighting](#syntax-highlighting)  
+    * [Keyboard Keys](#keyboard-keys)  
+    * [Tables](#tables)
 <!------------------------------------------------------------>
 
 ## Headings
