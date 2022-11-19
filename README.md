@@ -1,5 +1,18 @@
 # Markdown Cheat Sheet
 
+## Table of Contents  
+[Headings](#headings)  
+[Text](#text)  
+[Lines](#lines)  
+[Line Breaks](#line-breaks)  
+[Links](#links)  
+[Images](#images)  
+[Lists](#lists)  
+[Checkboxes](#checkboxes)  
+[Emojis](#emojis)  
+[Syntax Highlighting](#syntax-highlighting)  
+[Keyboard Keys](#keyboard-keys)  
+[Tables](#tables)
 <!------------------------------------------------------------>
 
 ## Headings
@@ -74,50 +87,18 @@ _italic_
 `inline code`
 ```
 
-Code block
+### Code blocks
 <pre>
 ```
 // Code block
 ```
 </pre>
 
-Escape character
+### Escape character
 ```
 \
 ```
 
-
-<!------------------------------------------------------------>
-
-## GitHub-Flavored Markdown (GFM)
-
-Syntax Highlighting (Replace "javascript" with desired language.)
-<pre>
-``` javascript
-// Code goes here
-```
-</pre>
-
-Keyboard Keys  
-<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
-```
-<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
-```
-
-<!------------------------------------------------------------>
-
-## Emojis
-
-😂
-```
-:joy:
-```
-
-Any Emoji
-```
-:emojiname:
-```
-List: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 <!------------------------------------------------------------>
 
@@ -138,7 +119,7 @@ ___
 
 <!------------------------------------------------------------>
 
-## Line breaks
+## Line Breaks
 
 Enter once
 —> Same line
@@ -206,7 +187,7 @@ Images are similar to Links, but have a "!" before [Text]. [Text] shows if the i
 * Start numbered list with "1."  
 * Use asterisk (*), plus (+), or minus (-) for bullet points.
 
-Numbered:  
+### Numbered:  
 1. First item
     1. First sub-item  
         1. First sub-sub-item  
@@ -216,7 +197,7 @@ Numbered:
         1. First sub-sub-item
 ```
 
-Bulleted:  
+### Bulleted:  
 * First item
     * First sub-item
         * First sub-sub-item
@@ -226,7 +207,7 @@ Bulleted:
         * First sub-sub-item
 ```
 
-Mixed:
+### Mixed:
 * First item
    1. First sub-item
        * First sub-sub-item
@@ -238,7 +219,10 @@ Mixed:
 * Second item
 ```
 
-Checkboxes:
+<!------------------------------------------------------------>
+
+## Checkboxes
+
 * [ ] Checkbox item
     * [x] Marked checkbox sub-item
 ```
@@ -248,7 +232,38 @@ Checkboxes:
 
 <!------------------------------------------------------------>
 
-## Table
+## Emojis
+
+### 😂
+```
+:joy:
+```
+
+### Any Emoji
+```
+:emojiname:
+```
+List: https://www.webfx.com/tools/emoji-cheat-sheet/
+
+<!------------------------------------------------------------>
+
+## GitHub-Flavored Markdown (GFM)
+
+### Syntax Highlighting  
+(Replace "javascript" with desired language.)
+<pre>
+``` javascript
+// Code goes here
+```
+</pre>
+
+### Keyboard Keys  
+<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
+```
+<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>esc</kbd>
+```
+
+### Tables
 
 Right aligned | Center aligned | Left aligned
 ---: | :---: | :---
@@ -260,3 +275,6 @@ Right aligned | Center aligned | Left aligned
 Data | Data | Data
 Data | Data | Data
 ```
+
+<!------------------------------------------------------------>
+
