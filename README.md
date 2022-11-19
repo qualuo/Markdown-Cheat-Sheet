@@ -1,5 +1,7 @@
 # Markdown Cheat Sheet
 
+All codeblocks are Markdown.
+
 <!------------------------------------------------------------>
 
 ## Text
@@ -35,17 +37,33 @@ _italic_
 ~~strikethrough~~
 ```
 
-> \> Blockquote
-> > \> \> Nested Blockquote
+> Blockquote
+> >  Nested Blockquote
 ```
 > Blockquote
 > > Nested Blockquote
 ```
 
-Emojis 😂
+`Inline code`
+```
+`inline code`
+```
+
+Escape character
+```
+\
+```
+
+<!------------------------------------------------------------>
+
+## Emojis
+
+😂
 ```
 :joy:
 ```
+
+Any Emoji
 ```
 :emojiname:
 ```
