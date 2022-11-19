@@ -19,7 +19,7 @@ ___
 Two trailing spaces + Enter   
 New line
 
-Only Enter
+One Enter
 — Same line
 
 ## › Text
@@ -38,8 +38,9 @@ Only Enter
 [This is an in-line link.](https://github.com/qualuo/Markdown-Cheat-Sheet "Title")
 
 \[Text][Tag]  
+
 \[Tag]: Link   
 
-[This is a reference link.][1]
+[This is a reference link.][1] Tag can be any case-sensitive text, e.g. \[1], [2], [3].
 
 [1]: https://github.com/qualuo/Markdown-Cheat-Sheet
