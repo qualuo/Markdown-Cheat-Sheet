@@ -158,19 +158,40 @@ Enter twice
 ```
 [Text](Link "Optional Title")  
 ```
-[This is a reference link.][1] 
+[This is a reference link.][Links-1] 
 ```
 [Text][Tag]  
 
-[Tag]: Link   
+[Tag]:Link   
 ```
-[1]: https://github.com/qualuo/Markdown-Cheat-Sheet
+[Links-1]: https://github.com/qualuo/Markdown-Cheat-Sheet
     
 Tag can be any case-sensitive text, e.g. \[1], [2], [3].
+
+#### Examples:  
+Available on [GitHub](https://github.com/).
+```
+Available on [GitHub](https://github.com/).
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.<sup>[[1][References-1]]</sup>
+Proin molestie quis urna a tristique.<sup>[[2][References-2]]</sup>
+
+[References-1]:https://github.com/qualuo
+[References-2]:https://github.com/qualuo
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.<sup>[[1][References-1]</sup>
+Proin molestie quis urna a tristique.<sup>[[2][References-2]]</sup>
+
+[References-1]:https://github.com/qualuo
+[References-2]:https://github.com/qualuo
+```
 
 <!------------------------------------------------------------>
 
 ## Images
+
+* Images are similar to Links, but have a "!" before [Text]. 
+* [Text] only shows if the image failed to load and can be left empty ([]).
 
 ![This text shows if the image fails.](/Logo.png "This is an in-line image.")
 ```
@@ -181,12 +202,15 @@ Tag can be any case-sensitive text, e.g. \[1], [2], [3].
 ```
 ![Text][Tag]  
 
-![Tag]: Link   
+![Tag]:Link   
 ```
 [img1]: /Logo.png "This is a reference image."
 
-Images are similar to Links, but have a "!" before [Text]. [Text] shows if the image failed to load.
-
+#### Examples:  
+![Missing image.](https://avatars.githubusercontent.com/u/10774983?s=96&v=4 "I think, therefore I am.")
+```
+![Missing image.](https://avatars.githubusercontent.com/u/10774983?s=96&v=4 "I think, therefore I am.")
+```
 <!------------------------------------------------------------>
 
 ## Lists
