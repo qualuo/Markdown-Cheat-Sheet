@@ -172,7 +172,7 @@ Tag can be any case-sensitive text, e.g. \[1], [2], [3].
 
 ## Images
 
-![This text shows if the image fails.](https://avatars.githubusercontent.com/u/10774983?s=96&v=4 "This is an in-line image.")
+![This text shows if the image fails.](/Logo.png "This is an in-line image.")
 ```
 ![Text](Link "Optional Title")  
 ```
@@ -183,7 +183,7 @@ Tag can be any case-sensitive text, e.g. \[1], [2], [3].
 
 ![Tag]: Link   
 ```
-[img1]: https://avatars.githubusercontent.com/u/10774983?s=96&v=4 "This is a reference image."
+[img1]: /Logo.png "This is a reference image."
 
 Images are similar to Links, but have a "!" before [Text]. [Text] shows if the image failed to load.
 
