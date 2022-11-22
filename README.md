@@ -129,23 +129,23 @@ ___
 
 ## Line Breaks
 
-Enter once
+_Press Enter once_
 —> Same line
 ```
-Enter once
+_Press Enter once_
 —> Same line
 ```
-Two trailing spaces + Enter once  
+_Press two trailing spaces + Enter once_  
 —> New line
 ```
-Two trailing spaces + Enter once  
+_Press two trailing spaces + Enter once_  
 —> New line
 ```
-Enter twice
+_Press Enter twice_
 
 —> New paragraph
 ```
-Enter twice
+_Press Enter twice_
 
 —> New paragraph
 ```
@@ -176,14 +176,14 @@ Available on [GitHub](https://github.com/).
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.<sup>[[1][References-1]]</sup>
 Proin molestie quis urna a tristique.<sup>[[2][References-2]]</sup>
 
-[References-1]:https://github.com/qualuo
-[References-2]:https://github.com/qualuo
+[References-1]:https://github.com/
+[References-2]:https://github.com/
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.<sup>[[1][References-1]</sup>
 Proin molestie quis urna a tristique.<sup>[[2][References-2]]</sup>
 
-[References-1]:https://github.com/qualuo
-[References-2]:https://github.com/qualuo
+[References-1]:https://github.com/
+[References-2]:https://github.com/
 ```
 
 <!------------------------------------------------------------>
